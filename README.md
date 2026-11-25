@@ -30,7 +30,7 @@ Im Rahmen der Projektarbeit wurden folgende Aufgaben bearbeitet:
 - Festigkeitsnachweis der Verzahnung
 - Dokumentation des gesamten Entwicklungsprozesses
 
-## Projektdaten
+## Technische Daten
 
 | Parameter | Wert |
 |------------|------------|
