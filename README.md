@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Diese Projektarbeit wurde im Rahmen des Maschinenbaustudiums durchgeführt.
+Diese Projektarbeit wurde im Rahmen des Maschinenbaustudiums an der Westfälischen Hochschule Gelsenkirchen durchgeführt.
 
 Ziel war die Entwicklung und Auslegung eines vollständigen Antriebsstrangs für eine industrielle Brikettieranlage mit zwei gegenläufig angetriebenen Walzen.
 
