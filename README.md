@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Diese Projektarbeit wurde im Rahmen des Maschinenbaustudiums an der Westfälischen Hochschule Gelsenkirchen durchgeführt.
+Diese Projektarbeit entstand im Rahmen des Maschinenbaustudiums an der Westfälischen Hochschule Gelsenkirchen.
 
 Ziel war die Entwicklung und Auslegung eines vollständigen Antriebsstrangs für eine industrielle Brikettieranlage mit zwei gegenläufig angetriebenen Walzen.
 
@@ -15,6 +15,8 @@ Der Antriebsstrang umfasst einen Elektromotor, ein Vorschaltgetriebe, ein Sonder
 - Projektart: Projektarbeit
 
 ## Aufgabenstellung
+
+Im Rahmen der Projektarbeit wurden folgende Aufgaben bearbeitet:
 
 - Auswahl des Elektromotors
 - Auswahl eines Vorschaltgetriebes
