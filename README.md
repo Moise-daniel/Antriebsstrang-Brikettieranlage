@@ -53,10 +53,10 @@ Die Projektarbeit wurde gemeinsam mit einem weiteren Studierenden bearbeitet.
 
 ## Inhalt des Repositorys
 
-- Prinzipskizze des Antriebsstranges
-- Auslegungs- und Nachweisrechnungen
-- KISSsys-Modelle
-- KISSsoft-Berechnungen
+1. Prinzipskizze des Antriebsstranges
+2. Auslegungs- und Nachweisrechnungen
+3. KISSsys-Modelle
+4. KISSsoft-Berechnungen
 
 ## Projektstatus
 
